@@ -1,0 +1,16 @@
+{
+  "name": "cometality",
+  "version": "1.0.0",
+  "description": "Bot by Syncryst",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Syncryst",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.0.1",
+    "ms": "^2.1.1"
+  }
+}
